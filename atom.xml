@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fly0range.github.io</id>
-    <title>Power</title>
-    <updated>2021-12-08T14:17:51.612Z</updated>
+    <title>p0wer</title>
+    <updated>2021-12-08T14:27:36.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fly0range.github.io"/>
     <link rel="self" href="https://fly0range.github.io/atom.xml"/>
     <subtitle>不假思索的一往无前和深思熟虑的驻足思考都是被需要的</subtitle>
     <logo>https://fly0range.github.io/images/avatar.png</logo>
     <icon>https://fly0range.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Power</rights>
+    <rights>All rights reserved 2021, p0wer</rights>
 </feed>
